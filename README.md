@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<p >
-  <table>
+
+<table align="center">
   <tr>
     <td>
       <h3>🚀 Passionate MERN STACK Developer from Sylhet, Bangladesh.</h3>
+      <p>
+        Welcome to my profile! I'm a dedicated developer passionate about building scalable, efficient, user-friendly web applications. With expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js), I specialize in creating seamless full-stack solutions that bring ideas to life. 
+        <br><br>
+        I thrive in collaborative environments and am always on the lookout for innovative projects to contribute to. When I'm not coding, I enjoy exploring new technologies, improving my skills, and sharing knowledge with the developer community. Let's connect and create something amazing together!
+      </p>
     </td>
     <td>
       <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="300px" />
     </td>
   </tr>
 </table>
-
-</p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=royakash2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
