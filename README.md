@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<p align="center">
-  <img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Coding GIF" width="400px" />
+<p >
+  <table>
+  <tr>
+    <td>
+      <h3>🚀 Passionate MERN Developer from Sylhet, Bangladesh 🌍</h3>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="300px" />
+    </td>
+  </tr>
+</table>
+
 </p>
 
-<h3 align="center">🚀 Passionate MERN Developer from Sylhet, Bangladesh 🌍</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=royakash2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
