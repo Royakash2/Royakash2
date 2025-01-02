@@ -3,7 +3,7 @@
   <table>
   <tr>
     <td>
-      <h3>🚀 Passionate MERN Developer from Sylhet, Bangladesh 🌍</h3>
+      <h3>🚀 Passionate MERN STACK Developer from Sylhet, Bangladesh.</h3>
     </td>
     <td>
       <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="300px" />
